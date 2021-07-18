@@ -9,6 +9,8 @@ sites:
     url: https://huginn.octal.xyz/
   - name: Health Checker
     url: https://health.octal.xyz/
+  - name: Status Page
+    url: https://status.spacespacespacetime.dev/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
