@@ -11,6 +11,18 @@ sites:
     url: https://health.octal.xyz/
   - name: Status Page
     url: https://status.spacespacespacetime.dev/
+  - name: IRC
+    check: "tcp-ping"
+    url: $SECRET_SITE_IRC
+    port: 6667
+  - name: IRC SSL
+    check: "tcp-ping"
+    url: $SECRET_SITE_IRC
+    port: 6697
+  - name: ZNC
+    check: "tcp-ping"
+    url: $SECRET_SITE_ZNC
+    port: $SECRET_SITE_ZNC_PORT
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
