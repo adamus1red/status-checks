@@ -22,7 +22,7 @@
     "url": "https://huginn.octal.xyz/",
     "icon": "https://favicons.githubusercontent.com/huginn.octal.xyz",
     "slug": "huginn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -40,9 +40,9 @@
     "url": "https://health.octal.xyz/",
     "icon": "https://favicons.githubusercontent.com/health.octal.xyz",
     "slug": "health-checker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 559,
     "timeMonth": 645,
     "timeYear": 625,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-10": 0
+    }
   },
   {
     "name": "Status Page",
@@ -59,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/status.spacespacespacetime.dev",
     "slug": "status-page",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.54%",
+    "uptimeYear": "99.55%",
     "time": 183,
     "timeDay": 155,
     "timeWeek": 208,
