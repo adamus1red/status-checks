@@ -5,30 +5,30 @@ labels: ["maintainance"]
 assignees:
   - octocat
 body:
-  - type: input
-    id: start
-    attributes:
-      label: Start Date
-      description: When will the maintainance window start?
-      placeholder: "2021-12-24T00:00:00.220Z"
+  - type: markdown
+    attributes: |
+      "## Start Date
+      When will the maintainance window start?
+      Example `start: 2021-12-24T00:00:00.220Z`
+      ## Stop Date
+      When will the maintainance window start?
+      Example `stop: 2021-12-24T00:00:00.220Z`
+      ## Expected Outage
+      What monitored services will be offline?
+      Example `expectedDown: huginn`"
     validations:
       required: true
-  - type: input
-    id: stop
+
+  - type: textarea
+    id: machineReadable
     attributes:
-      label: Stop Date
-      description: When will the maintainance window close?
-      placeholder: "2021-12-26T00:00:00.220Z"
-    validations:
-      required: true
-  - type: input
-    id: expectedDown
-    attributes:
-      label: Expected Outage
-      description: What monitored services will be offline?
-      placeholder: huginn
-    validations:
-      required: true
+      label: Details for Maintainance Window
+      value: |
+        <!--
+        start: 2021-12-24T13:00:00.220Z
+        end: 2021-12-27T00:00:00.220Z
+        expectedDown: huginn
+        -->
   - type: textarea
     id: longDescription
     attributes:
@@ -46,3 +46,11 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
+
+
+        
+
+      
+      
+      
+      
