@@ -10,7 +10,7 @@ body:
     attributes:
       label: Start Date
       description: When will the maintainance window start?
-      placeholder: 2021-12-24T00:00:00.220Z
+      placeholder: "2021-12-24T00:00:00.220Z"
     validations:
       required: true
   - type: input
@@ -18,7 +18,7 @@ body:
     attributes:
       label: Stop Date
       description: When will the maintainance window close?
-      placeholder: 2021-12-26T00:00:00.220Z
+      placeholder: "2021-12-26T00:00:00.220Z"
     validations:
       required: true
   - type: input
