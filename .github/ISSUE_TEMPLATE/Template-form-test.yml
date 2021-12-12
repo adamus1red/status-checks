@@ -1,0 +1,52 @@
+name: Maintainance Test
+description: File a bug report
+title: "[Maintainance]: "
+labels: ["maintainance"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: start
+    attributes:
+      label: Start Date
+      description: When will the maintainance window start?
+      placeholder: 2021-12-24T00:00:00.220Z
+    validations:
+      required: true
+  - type: input
+    id: stop
+    attributes:
+      label: Stop Date
+      description: When will the maintainance window close?
+      placeholder: 2021-12-26T00:00:00.220Z
+    validations:
+      required: true
+  - type: input
+    id: expectedDown
+    attributes:
+      label: Expected Outage
+      description: What monitored services will be offline?
+      placeholder: huginn
+    validations:
+      required: true
+  - type: textarea
+    id: longDescription
+    attributes:
+      label: Human Readable/Understandable reason.
+      description: Also tell us, who/what/when/where/why for people to understand?
+      placeholder: Tell us what you see!
+      value: "Servers need a break"
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
