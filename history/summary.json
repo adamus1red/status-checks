@@ -22,19 +22,19 @@
     "url": "https://huginn.octal.xyz/",
     "icon": "https://favicons.githubusercontent.com/huginn.octal.xyz",
     "slug": "huginn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 514,
-    "timeDay": 490,
-    "timeWeek": 578,
-    "timeMonth": 545,
-    "timeYear": 514,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 513,
+    "timeDay": 445,
+    "timeWeek": 553,
+    "timeMonth": 539,
+    "timeYear": 513,
     "dailyMinutesDown": {
-      "2022-01-12": 0
+      "2022-01-12": 20
     }
   },
   {
