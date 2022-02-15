@@ -22,11 +22,11 @@
     "url": "https://huginn.octal.xyz/",
     "icon": "https://favicons.githubusercontent.com/huginn.octal.xyz",
     "slug": "huginn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 536,
     "timeDay": 2457,
@@ -34,7 +34,7 @@
     "timeMonth": 681,
     "timeYear": 536,
     "dailyMinutesDown": {
-      "2022-02-15": 8,
+      "2022-02-15": 2,
       "2022-01-12": 20
     }
   },
@@ -43,11 +43,11 @@
     "url": "https://health.octal.xyz/",
     "icon": "https://favicons.githubusercontent.com/health.octal.xyz",
     "slug": "health-checker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 678,
     "timeDay": 1647,
@@ -55,7 +55,7 @@
     "timeMonth": 903,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2022-02-15": 7
+      "2022-02-15": 1
     }
   },
   {
