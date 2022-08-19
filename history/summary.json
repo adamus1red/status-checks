@@ -126,9 +126,9 @@
     "url": "$SECRET_SITE_IRC",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "irc-ssl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -137,7 +137,9 @@
     "timeWeek": 129,
     "timeMonth": 136,
     "timeYear": 125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-19": 0
+    }
   },
   {
     "name": "ZNC",
