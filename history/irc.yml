@@ -1,7 +1,7 @@
 url: $SECRET_SITE_IRC
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-23T21:22:43.832Z
+status: up
+code: 200
+responseTime: 76
+lastUpdated: 2023-12-23T21:32:24.042Z
 startTime: 2021-07-18T18:17:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
