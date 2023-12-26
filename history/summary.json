@@ -4,19 +4,19 @@
     "url": "https://octal.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/octal.xyz.ico",
     "slug": "octal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 44,
-    "timeWeek": 65,
+    "timeDay": 48,
+    "timeWeek": 64,
     "timeMonth": 63,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2023-12-26": 1
+      "2023-12-26": 10
     }
   },
   {
