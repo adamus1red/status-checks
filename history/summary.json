@@ -4,18 +4,20 @@
     "url": "https://octal.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/octal.xyz.ico",
     "slug": "octal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 59,
-    "timeWeek": 58,
+    "timeDay": 67,
+    "timeWeek": 60,
     "timeMonth": 76,
     "timeYear": 93,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-08": 1
+    }
   },
   {
     "name": "Huginn",
@@ -153,7 +155,7 @@
     "time": 138,
     "timeDay": 112,
     "timeWeek": 133,
-    "timeMonth": 135,
+    "timeMonth": 136,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2024-02-08": 15,
