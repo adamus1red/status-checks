@@ -6,9 +6,9 @@
     "slug": "octal",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 95,
     "timeDay": 67,
@@ -16,7 +16,7 @@
     "timeMonth": 76,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2024-02-08": 1
+      "2024-02-08": 21
     }
   },
   {
