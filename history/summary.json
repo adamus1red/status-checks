@@ -6,17 +6,16 @@
     "slug": "octal",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "99.87%",
     "time": 99,
     "timeDay": 79,
     "timeWeek": 110,
     "timeMonth": 96,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2025-06-26": 14,
       "2025-06-24": 22,
       "2025-06-21": 101,
       "2025-06-20": 28,
@@ -198,7 +197,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.spacespacespacetime.dev.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "72.69%",
+    "uptime": "72.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -209,7 +208,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-26": 1424,
+      "2025-06-27": 74,
+      "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -572,8 +572,7 @@
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
-      "2024-06-28": 1440,
-      "2024-06-27": 1440
+      "2024-06-28": 1440
     }
   },
   {
