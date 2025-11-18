@@ -1,7 +1,7 @@
 url: https://health.octal.xyz/
-status: down
-code: 500
-responseTime: 130
-lastUpdated: 2025-11-18T14:50:31.911Z
+status: up
+code: 200
+responseTime: 828
+lastUpdated: 2025-11-18T15:10:18.538Z
 startTime: 2021-07-18T16:18:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
