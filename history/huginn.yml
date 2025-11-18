@@ -1,7 +1,7 @@
 url: https://huginn.octal.xyz/
-status: up
-code: 200
-responseTime: 384
-lastUpdated: 2025-11-18T14:34:39.585Z
+status: down
+code: 500
+responseTime: 136
+lastUpdated: 2025-11-18T14:50:29.812Z
 startTime: 2021-07-18T16:18:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
