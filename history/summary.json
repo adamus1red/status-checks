@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/octal.xyz.ico",
     "slug": "octal",
     "status": "down",
-    "uptime": "95.37%",
+    "uptime": "95.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.25%",
+    "uptimeYear": "78.98%",
     "time": 107,
-    "timeDay": 175,
-    "timeWeek": 114,
-    "timeMonth": 100,
+    "timeDay": 81,
+    "timeWeek": 104,
+    "timeMonth": 98,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2026-01-10": 76,
+      "2026-01-11": 85,
+      "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -147,10 +148,10 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "86.55%",
     "time": 385,
-    "timeDay": 651,
+    "timeDay": 556,
     "timeWeek": 478,
-    "timeMonth": 479,
-    "timeYear": 375,
+    "timeMonth": 478,
+    "timeYear": 376,
     "dailyMinutesDown": {
       "2025-12-19": 52,
       "2025-11-18": 173,
@@ -227,9 +228,9 @@
     "uptimeMonth": "97.17%",
     "uptimeYear": "86.01%",
     "time": 649,
-    "timeDay": 1678,
-    "timeWeek": 1012,
-    "timeMonth": 951,
+    "timeDay": 591,
+    "timeWeek": 914,
+    "timeMonth": 931,
     "timeYear": 650,
     "dailyMinutesDown": {
       "2025-12-25": 1239,
@@ -298,7 +299,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.spacespacespacetime.dev.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "63.93%",
+    "uptime": "63.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -309,7 +310,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-10": 76,
+      "2026-01-11": 85,
+      "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -672,8 +674,7 @@
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
-      "2025-01-12": 1440,
-      "2025-01-11": 1440
+      "2025-01-12": 1440
     }
   },
   {
@@ -688,13 +689,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 142,
-    "timeDay": 127,
-    "timeWeek": 112,
-    "timeMonth": 143,
+    "timeDay": 89,
+    "timeWeek": 99,
+    "timeMonth": 142,
     "timeYear": 144,
-    "dailyMinutesDown": {
-      "2025-01-11": 78
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "IRC SSL",
@@ -708,13 +707,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 143,
-    "timeDay": 126,
-    "timeWeek": 125,
-    "timeMonth": 135,
+    "timeDay": 80,
+    "timeWeek": 119,
+    "timeMonth": 132,
     "timeYear": 144,
-    "dailyMinutesDown": {
-      "2025-01-11": 35
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ZNC",
@@ -722,15 +719,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "znc",
     "status": "up",
-    "uptime": "90.58%",
+    "uptime": "90.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.17%",
     "uptimeYear": "99.76%",
     "time": 119,
-    "timeDay": 137,
-    "timeWeek": 114,
-    "timeMonth": 120,
+    "timeDay": 92,
+    "timeWeek": 108,
+    "timeMonth": 118,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2025-12-25": 1239
@@ -748,9 +745,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 11,
+    "timeDay": 6,
     "timeWeek": 7,
-    "timeMonth": 6,
+    "timeMonth": 5,
     "timeYear": 4,
     "dailyMinutesDown": {}
   },
@@ -766,8 +763,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
-    "timeDay": 11,
-    "timeWeek": 8,
+    "timeDay": 6,
+    "timeWeek": 7,
     "timeMonth": 6,
     "timeYear": 5,
     "dailyMinutesDown": {}
