@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/octal.xyz.ico",
     "slug": "octal",
     "status": "down",
-    "uptime": "93.99%",
+    "uptime": "93.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "72.67%",
+    "uptimeYear": "72.40%",
     "time": 107,
-    "timeDay": 75,
-    "timeWeek": 93,
-    "timeMonth": 107,
+    "timeDay": 85,
+    "timeWeek": 92,
+    "timeMonth": 105,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2026-02-03": 106,
+      "2026-02-04": 101,
+      "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
@@ -169,12 +170,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.55%",
+    "uptimeYear": "86.60%",
     "time": 386,
-    "timeDay": 416,
-    "timeWeek": 451,
-    "timeMonth": 467,
-    "timeYear": 376,
+    "timeDay": 446,
+    "timeWeek": 453,
+    "timeMonth": 464,
+    "timeYear": 377,
     "dailyMinutesDown": {
       "2025-12-19": 52,
       "2025-11-18": 173,
@@ -234,8 +235,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1203,
-      "2025-02-05": 1248,
-      "2025-02-04": 1269
+      "2025-02-05": 1248
     }
   },
   {
@@ -248,12 +248,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.01%",
-    "time": 658,
-    "timeDay": 726,
-    "timeWeek": 836,
-    "timeMonth": 913,
-    "timeYear": 663,
+    "uptimeYear": "86.06%",
+    "time": 659,
+    "timeDay": 1034,
+    "timeWeek": 884,
+    "timeMonth": 905,
+    "timeYear": 667,
     "dailyMinutesDown": {
       "2025-12-25": 1239,
       "2025-12-03": 20,
@@ -310,8 +310,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1430,
-      "2025-02-05": 1429,
-      "2025-02-04": 1409
+      "2025-02-05": 1429
     }
   },
   {
@@ -320,7 +319,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.spacespacespacetime.dev.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "63.01%",
+    "uptime": "62.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -331,7 +330,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-03": 106,
+      "2026-02-04": 101,
+      "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
@@ -694,8 +694,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
-      "2025-02-05": 1440,
-      "2025-02-04": 1440
+      "2025-02-05": 1440
     }
   },
   {
@@ -710,10 +709,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 132,
-    "timeWeek": 115,
-    "timeMonth": 123,
-    "timeYear": 143,
+    "timeDay": 94,
+    "timeWeek": 114,
+    "timeMonth": 120,
+    "timeYear": 142,
     "dailyMinutesDown": {}
   },
   {
@@ -728,9 +727,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 103,
-    "timeWeek": 115,
-    "timeMonth": 129,
+    "timeDay": 102,
+    "timeWeek": 116,
+    "timeMonth": 128,
     "timeYear": 143,
     "dailyMinutesDown": {}
   },
@@ -746,9 +745,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 119,
-    "timeDay": 110,
-    "timeWeek": 114,
-    "timeMonth": 116,
+    "timeDay": 113,
+    "timeWeek": 113,
+    "timeMonth": 115,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2025-12-25": 1239
@@ -768,7 +767,7 @@
     "time": 4,
     "timeDay": 2,
     "timeWeek": 5,
-    "timeMonth": 6,
+    "timeMonth": 5,
     "timeYear": 4,
     "dailyMinutesDown": {}
   },
@@ -784,8 +783,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
-    "timeDay": 4,
-    "timeWeek": 6,
+    "timeDay": 7,
+    "timeWeek": 7,
     "timeMonth": 6,
     "timeYear": 5,
     "dailyMinutesDown": {}
