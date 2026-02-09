@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/octal.xyz.ico",
     "slug": "octal",
     "status": "down",
-    "uptime": "93.71%",
+    "uptime": "93.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "71.30%",
+    "uptimeYear": "71.03%",
     "time": 107,
-    "timeDay": 131,
-    "timeWeek": 95,
-    "timeMonth": 106,
+    "timeDay": 279,
+    "timeWeek": 125,
+    "timeMonth": 112,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2026-02-08": 126,
+      "2026-02-09": 109,
+      "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
@@ -174,12 +175,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.59%",
+    "uptimeYear": "87.86%",
     "time": 387,
-    "timeDay": 460,
-    "timeWeek": 489,
-    "timeMonth": 480,
-    "timeYear": 396,
+    "timeDay": 674,
+    "timeWeek": 535,
+    "timeMonth": 488,
+    "timeYear": 397,
     "dailyMinutesDown": {
       "2025-12-19": 52,
       "2025-11-18": 173,
@@ -234,8 +235,7 @@
       "2025-02-13": 1440,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
-      "2025-02-10": 1440,
-      "2025-02-09": 1440
+      "2025-02-10": 1440
     }
   },
   {
@@ -248,12 +248,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.15%",
-    "time": 656,
-    "timeDay": 770,
-    "timeWeek": 922,
-    "timeMonth": 918,
-    "timeYear": 682,
+    "uptimeYear": "87.42%",
+    "time": 657,
+    "timeDay": 829,
+    "timeWeek": 916,
+    "timeMonth": 922,
+    "timeYear": 684,
     "dailyMinutesDown": {
       "2025-12-25": 1239,
       "2025-12-03": 20,
@@ -305,8 +305,7 @@
       "2025-02-13": 1440,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
-      "2025-02-10": 1440,
-      "2025-02-09": 1440
+      "2025-02-10": 1440
     }
   },
   {
@@ -315,7 +314,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.spacespacespacetime.dev.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "62.82%",
+    "uptime": "62.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -326,7 +325,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-08": 126,
+      "2026-02-09": 110,
+      "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
@@ -689,8 +689,7 @@
       "2025-02-13": 1440,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
-      "2025-02-10": 1440,
-      "2025-02-09": 1440
+      "2025-02-10": 1440
     }
   },
   {
@@ -705,9 +704,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 107,
-    "timeWeek": 127,
-    "timeMonth": 126,
+    "timeDay": 122,
+    "timeWeek": 128,
+    "timeMonth": 127,
     "timeYear": 142,
     "dailyMinutesDown": {}
   },
@@ -723,9 +722,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 143,
-    "timeWeek": 117,
-    "timeMonth": 132,
+    "timeDay": 118,
+    "timeWeek": 122,
+    "timeMonth": 129,
     "timeYear": 142,
     "dailyMinutesDown": {}
   },
@@ -741,10 +740,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 119,
-    "timeDay": 122,
-    "timeWeek": 123,
-    "timeMonth": 119,
-    "timeYear": 119,
+    "timeDay": 135,
+    "timeWeek": 128,
+    "timeMonth": 120,
+    "timeYear": 120,
     "dailyMinutesDown": {
       "2025-12-25": 1239
     }
@@ -762,7 +761,7 @@
     "uptimeYear": "100.00%",
     "time": 4,
     "timeDay": 11,
-    "timeWeek": 3,
+    "timeWeek": 4,
     "timeMonth": 5,
     "timeYear": 4,
     "dailyMinutesDown": {}
@@ -779,8 +778,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
-    "timeDay": 14,
-    "timeWeek": 5,
+    "timeDay": 11,
+    "timeWeek": 6,
     "timeMonth": 6,
     "timeYear": 5,
     "dailyMinutesDown": {}
