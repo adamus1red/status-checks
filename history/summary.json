@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/octal.xyz.ico",
     "slug": "octal",
     "status": "down",
-    "uptime": "93.20%",
+    "uptime": "93.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.83%",
+    "uptimeYear": "68.56%",
     "time": 107,
-    "timeDay": 75,
-    "timeWeek": 110,
+    "timeDay": 98,
+    "timeWeek": 114,
     "timeMonth": 115,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2026-02-17": 105,
+      "2026-02-18": 109,
+      "2026-02-17": 1440,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
@@ -183,11 +184,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.05%",
+    "uptimeYear": "90.32%",
     "time": 387,
-    "timeDay": 452,
-    "timeWeek": 484,
-    "timeMonth": 483,
+    "timeDay": 432,
+    "timeWeek": 490,
+    "timeMonth": 478,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2025-12-19": 52,
@@ -234,8 +235,7 @@
       "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
-      "2025-02-19": 1440,
-      "2025-02-18": 1440
+      "2025-02-19": 1440
     }
   },
   {
@@ -244,16 +244,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/health.octal.xyz.ico",
     "slug": "health-checker",
     "status": "up",
-    "uptime": "93.27%",
+    "uptime": "93.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.61%",
+    "uptimeYear": "89.88%",
     "time": 664,
-    "timeDay": 710,
-    "timeWeek": 918,
-    "timeMonth": 907,
-    "timeYear": 702,
+    "timeDay": 740,
+    "timeWeek": 922,
+    "timeMonth": 902,
+    "timeYear": 703,
     "dailyMinutesDown": {
       "2025-12-25": 1239,
       "2025-12-03": 20,
@@ -296,8 +296,7 @@
       "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
-      "2025-02-19": 1440,
-      "2025-02-18": 1440
+      "2025-02-19": 1440
     }
   },
   {
@@ -306,7 +305,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.spacespacespacetime.dev.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "62.48%",
+    "uptime": "62.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -317,7 +316,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-17": 105,
+      "2026-02-18": 109,
+      "2026-02-17": 1440,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
@@ -680,8 +680,7 @@
       "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
-      "2025-02-19": 1440,
-      "2025-02-18": 1440
+      "2025-02-19": 1440
     }
   },
   {
@@ -696,10 +695,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 101,
-    "timeWeek": 143,
-    "timeMonth": 130,
-    "timeYear": 142,
+    "timeDay": 112,
+    "timeWeek": 142,
+    "timeMonth": 128,
+    "timeYear": 143,
     "dailyMinutesDown": {}
   },
   {
@@ -714,9 +713,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 101,
-    "timeWeek": 165,
-    "timeMonth": 136,
+    "timeDay": 96,
+    "timeWeek": 146,
+    "timeMonth": 135,
     "timeYear": 143,
     "dailyMinutesDown": {}
   },
@@ -732,9 +731,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 119,
-    "timeDay": 110,
-    "timeWeek": 121,
-    "timeMonth": 121,
+    "timeDay": 113,
+    "timeWeek": 124,
+    "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2025-12-25": 1239
@@ -770,8 +769,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
-    "timeDay": 6,
-    "timeWeek": 6,
+    "timeDay": 10,
+    "timeWeek": 7,
     "timeMonth": 6,
     "timeYear": 5,
     "dailyMinutesDown": {}
