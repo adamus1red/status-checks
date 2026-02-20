@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/octal.xyz.ico",
     "slug": "octal",
     "status": "down",
-    "uptime": "93.09%",
+    "uptime": "93.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.29%",
+    "uptimeYear": "68.01%",
     "time": 100,
-    "timeDay": 104,
-    "timeWeek": 102,
-    "timeMonth": 112,
+    "timeDay": 48,
+    "timeWeek": 90,
+    "timeMonth": 111,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2026-02-19": 108,
+      "2026-02-20": 104,
+      "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
@@ -185,11 +186,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.60%",
+    "uptimeYear": "90.87%",
     "time": 388,
-    "timeDay": 636,
-    "timeWeek": 503,
-    "timeMonth": 487,
+    "timeDay": 560,
+    "timeWeek": 512,
+    "timeMonth": 493,
     "timeYear": 406,
     "dailyMinutesDown": {
       "2025-12-19": 52,
@@ -234,8 +235,7 @@
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
-      "2025-02-21": 1440,
-      "2025-02-20": 1440
+      "2025-02-21": 1440
     }
   },
   {
@@ -244,16 +244,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/health.octal.xyz.ico",
     "slug": "health-checker",
     "status": "up",
-    "uptime": "93.28%",
+    "uptime": "93.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.16%",
-    "time": 663,
-    "timeDay": 631,
-    "timeWeek": 831,
-    "timeMonth": 893,
-    "timeYear": 705,
+    "uptimeYear": "90.43%",
+    "time": 664,
+    "timeDay": 846,
+    "timeWeek": 842,
+    "timeMonth": 873,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2025-12-25": 1239,
       "2025-12-03": 20,
@@ -294,8 +294,7 @@
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
-      "2025-02-21": 1440,
-      "2025-02-20": 1440
+      "2025-02-21": 1440
     }
   },
   {
@@ -304,7 +303,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.spacespacespacetime.dev.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "62.41%",
+    "uptime": "62.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -315,7 +314,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-19": 108,
+      "2026-02-20": 104,
+      "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
@@ -678,8 +678,7 @@
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
-      "2025-02-21": 1440,
-      "2025-02-20": 1440
+      "2025-02-21": 1440
     }
   },
   {
@@ -693,10 +692,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 143,
-    "timeDay": 230,
-    "timeWeek": 157,
-    "timeMonth": 132,
+    "time": 142,
+    "timeDay": 167,
+    "timeWeek": 165,
+    "timeMonth": 133,
     "timeYear": 143,
     "dailyMinutesDown": {}
   },
@@ -712,9 +711,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 119,
-    "timeWeek": 137,
-    "timeMonth": 136,
+    "timeDay": 146,
+    "timeWeek": 142,
+    "timeMonth": 133,
     "timeYear": 143,
     "dailyMinutesDown": {}
   },
@@ -730,9 +729,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 119,
-    "timeDay": 92,
-    "timeWeek": 119,
-    "timeMonth": 119,
+    "timeDay": 158,
+    "timeWeek": 123,
+    "timeMonth": 121,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2025-12-25": 1239
@@ -750,8 +749,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 5,
-    "timeWeek": 4,
+    "timeDay": 1,
+    "timeWeek": 2,
     "timeMonth": 5,
     "timeYear": 4,
     "dailyMinutesDown": {}
@@ -768,9 +767,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
-    "timeDay": 5,
-    "timeWeek": 6,
-    "timeMonth": 7,
+    "timeDay": 1,
+    "timeWeek": 4,
+    "timeMonth": 6,
     "timeYear": 5,
     "dailyMinutesDown": {}
   }
