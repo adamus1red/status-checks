@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/octal.xyz.ico",
     "slug": "octal",
     "status": "down",
-    "uptime": "92.05%",
+    "uptime": "91.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "63.08%",
-    "time": 100,
-    "timeDay": 117,
-    "timeWeek": 110,
-    "timeMonth": 99,
+    "uptimeYear": "62.81%",
+    "time": 101,
+    "timeDay": 97,
+    "timeWeek": 103,
+    "timeMonth": 100,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2026-03-10": 88,
+      "2026-03-11": 88,
+      "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
@@ -204,12 +205,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.06%",
     "uptimeMonth": "98.40%",
-    "uptimeYear": "95.66%",
+    "uptimeYear": "95.94%",
     "time": 390,
-    "timeDay": 620,
-    "timeWeek": 491,
-    "timeMonth": 515,
-    "timeYear": 422,
+    "timeDay": 584,
+    "timeWeek": 497,
+    "timeMonth": 522,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2026-03-08": 700,
       "2025-12-19": 52,
@@ -235,8 +236,7 @@
       "2025-03-15": 918,
       "2025-03-14": 1371,
       "2025-03-13": 1440,
-      "2025-03-12": 1095,
-      "2025-03-11": 1440
+      "2025-03-12": 1095
     }
   },
   {
@@ -249,12 +249,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.36%",
-    "time": 678,
-    "timeDay": 1411,
-    "timeWeek": 1016,
-    "timeMonth": 954,
-    "timeYear": 747,
+    "uptimeYear": "95.63%",
+    "time": 679,
+    "timeDay": 1328,
+    "timeWeek": 1084,
+    "timeMonth": 976,
+    "timeYear": 751,
     "dailyMinutesDown": {
       "2025-12-25": 1239,
       "2025-12-03": 20,
@@ -276,8 +276,7 @@
       "2025-03-15": 1417,
       "2025-03-14": 1423,
       "2025-03-13": 1440,
-      "2025-03-12": 1429,
-      "2025-03-11": 1440
+      "2025-03-12": 1429
     }
   },
   {
@@ -286,7 +285,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.spacespacespacetime.dev.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "61.71%",
+    "uptime": "61.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -297,7 +296,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-10": 88,
+      "2026-03-11": 88,
+      "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
@@ -660,8 +660,7 @@
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
-      "2025-03-12": 1440,
-      "2025-03-11": 1440
+      "2025-03-12": 1440
     }
   },
   {
@@ -676,9 +675,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 167,
-    "timeWeek": 116,
-    "timeMonth": 138,
+    "timeDay": 140,
+    "timeWeek": 117,
+    "timeMonth": 139,
     "timeYear": 142,
     "dailyMinutesDown": {}
   },
@@ -694,9 +693,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 136,
-    "timeWeek": 147,
-    "timeMonth": 145,
+    "timeDay": 192,
+    "timeWeek": 152,
+    "timeMonth": 144,
     "timeYear": 143,
     "dailyMinutesDown": {}
   },
@@ -712,9 +711,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 119,
-    "timeDay": 139,
-    "timeWeek": 113,
-    "timeMonth": 125,
+    "timeDay": 147,
+    "timeWeek": 115,
+    "timeMonth": 126,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2025-12-25": 1239
@@ -732,9 +731,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 4,
-    "timeWeek": 6,
-    "timeMonth": 5,
+    "timeDay": 3,
+    "timeWeek": 5,
+    "timeMonth": 4,
     "timeYear": 4,
     "dailyMinutesDown": {}
   },
@@ -750,8 +749,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
-    "timeDay": 4,
-    "timeWeek": 6,
+    "timeDay": 3,
+    "timeWeek": 5,
     "timeMonth": 5,
     "timeYear": 5,
     "dailyMinutesDown": {}
