@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/octal.xyz.ico",
     "slug": "octal",
     "status": "down",
-    "uptime": "91.94%",
+    "uptime": "91.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "62.54%",
+    "uptimeYear": "62.26%",
     "time": 100,
-    "timeDay": 70,
+    "timeDay": 84,
     "timeWeek": 91,
-    "timeMonth": 96,
+    "timeMonth": 94,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2026-03-12": 88,
+      "2026-03-13": 103,
+      "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -206,12 +207,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.06%",
     "uptimeMonth": "98.40%",
-    "uptimeYear": "96.21%",
-    "time": 390,
-    "timeDay": 713,
-    "timeWeek": 533,
-    "timeMonth": 528,
-    "timeYear": 424,
+    "uptimeYear": "96.42%",
+    "time": 392,
+    "timeDay": 432,
+    "timeWeek": 525,
+    "timeMonth": 525,
+    "timeYear": 433,
     "dailyMinutesDown": {
       "2026-03-08": 700,
       "2025-12-19": 52,
@@ -235,8 +236,7 @@
       "2025-03-17": 1007,
       "2025-03-16": 1161,
       "2025-03-15": 918,
-      "2025-03-14": 1371,
-      "2025-03-13": 1440
+      "2025-03-14": 1371
     }
   },
   {
@@ -249,12 +249,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.91%",
-    "time": 681,
-    "timeDay": 1597,
-    "timeWeek": 1181,
-    "timeMonth": 988,
-    "timeYear": 754,
+    "uptimeYear": "96.18%",
+    "time": 682,
+    "timeDay": 1071,
+    "timeWeek": 1205,
+    "timeMonth": 999,
+    "timeYear": 758,
     "dailyMinutesDown": {
       "2025-12-25": 1239,
       "2025-12-03": 20,
@@ -274,8 +274,7 @@
       "2025-03-17": 1416,
       "2025-03-16": 1355,
       "2025-03-15": 1417,
-      "2025-03-14": 1423,
-      "2025-03-13": 1440
+      "2025-03-14": 1423
     }
   },
   {
@@ -284,7 +283,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.spacespacespacetime.dev.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "61.64%",
+    "uptime": "61.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -295,7 +294,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-12": 88,
+      "2026-03-13": 103,
+      "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -658,8 +658,7 @@
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
-      "2025-03-14": 1440,
-      "2025-03-13": 1440
+      "2025-03-14": 1440
     }
   },
   {
@@ -673,9 +672,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 143,
-    "timeDay": 131,
-    "timeWeek": 124,
+    "time": 142,
+    "timeDay": 97,
+    "timeWeek": 121,
     "timeMonth": 139,
     "timeYear": 142,
     "dailyMinutesDown": {}
@@ -692,10 +691,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 98,
-    "timeWeek": 134,
-    "timeMonth": 141,
-    "timeYear": 143,
+    "timeDay": 101,
+    "timeWeek": 131,
+    "timeMonth": 140,
+    "timeYear": 142,
     "dailyMinutesDown": {}
   },
   {
@@ -704,15 +703,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "znc",
     "status": "up",
-    "uptime": "90.92%",
+    "uptime": "90.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 119,
     "timeDay": 111,
-    "timeWeek": 117,
-    "timeMonth": 126,
+    "timeWeek": 120,
+    "timeMonth": 125,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2025-12-25": 1239
@@ -730,8 +729,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 3,
-    "timeWeek": 5,
+    "timeDay": 2,
+    "timeWeek": 4,
     "timeMonth": 4,
     "timeYear": 4,
     "dailyMinutesDown": {}
@@ -748,9 +747,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
-    "timeDay": 3,
+    "timeDay": 2,
     "timeWeek": 4,
-    "timeMonth": 5,
+    "timeMonth": 4,
     "timeYear": 5,
     "dailyMinutesDown": {}
   }
