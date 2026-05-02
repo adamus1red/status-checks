@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/octal.xyz.ico",
     "slug": "octal",
     "status": "down",
-    "uptime": "89.26%",
+    "uptime": "89.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "48.56%",
+    "uptimeYear": "48.43%",
     "time": 101,
     "timeDay": 63,
     "timeWeek": 113,
     "timeMonth": 105,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2026-05-02": 132,
+      "2026-05-02": 818,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
@@ -299,7 +299,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.spacespacespacetime.dev.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "59.84%",
+    "uptime": "59.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -310,7 +310,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-02": 132,
+      "2026-05-02": 818,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
@@ -682,9 +682,9 @@
     "url": "$SECRET_SITE_IRC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "irc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -693,7 +693,9 @@
     "timeWeek": 153,
     "timeMonth": 153,
     "timeYear": 143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-02": 0
+    }
   },
   {
     "name": "IRC SSL",
