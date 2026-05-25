@@ -27,12 +27,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd # v5
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Update response time
-        uses: upptime/uptime-monitor@v1.41.6
+        uses: upptime/uptime-monitor@5f2b98d164aee869e537f7ab336a27044dd1de3f # v1.41.6
         with:
           command: "response-time"
         env:
