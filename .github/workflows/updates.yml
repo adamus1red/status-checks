@@ -30,11 +30,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6
         with:
           ref: ${{ github.head_ref || github.ref_name }}
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Update code
-        uses: upptime/updates@master
+        uses: upptime/updates@c8be3a2281e37dfb3211b7cd8f847b014e551634 # master
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
