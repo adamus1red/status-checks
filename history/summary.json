@@ -4,16 +4,16 @@
     "url": "https://octal.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/octal.xyz.ico",
     "slug": "octal",
-    "status": "up",
-    "uptime": "80.76%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.00%",
+    "status": "down",
+    "uptime": "80.77%",
+    "uptimeDay": "13.05%",
+    "uptimeWeek": "1.86%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptimeYear": "0.04%",
     "time": 89,
-    "timeDay": 75,
-    "timeWeek": 88,
-    "timeMonth": 75,
+    "timeDay": 105,
+    "timeWeek": 101,
+    "timeMonth": 77,
     "timeYear": 82,
     "dailyMinutesDown": {
       "2026-11-01": 1373,
@@ -380,7 +380,7 @@
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
-      "2025-11-02": 1440
+      "2026-11-02": 0
     }
   },
   {
@@ -395,8 +395,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.78%",
     "time": 495,
-    "timeDay": 502,
-    "timeWeek": 515,
+    "timeDay": 0,
+    "timeWeek": 537,
     "timeMonth": 540,
     "timeYear": 485,
     "dailyMinutesDown": {
@@ -443,8 +443,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
     "time": 912,
-    "timeDay": 1014,
-    "timeWeek": 937,
+    "timeDay": 0,
+    "timeWeek": 991,
     "timeMonth": 958,
     "timeYear": 986,
     "dailyMinutesDown": {
@@ -473,7 +473,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-01": 1373,
+      "2026-11-02": 121,
+      "2026-11-01": 1440,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
@@ -836,8 +837,7 @@
       "2025-11-06": 1440,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
-      "2025-11-03": 1440,
-      "2025-11-02": 1440
+      "2025-11-03": 1440
     }
   },
   {
@@ -852,8 +852,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 142,
-    "timeDay": 199,
-    "timeWeek": 128,
+    "timeDay": 0,
+    "timeWeek": 136,
     "timeMonth": 136,
     "timeYear": 141,
     "dailyMinutesDown": {
@@ -872,8 +872,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 140,
-    "timeWeek": 140,
+    "timeDay": 0,
+    "timeWeek": 127,
     "timeMonth": 144,
     "timeYear": 142,
     "dailyMinutesDown": {}
@@ -890,8 +890,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 122,
-    "timeDay": 128,
-    "timeWeek": 117,
+    "timeDay": 0,
+    "timeWeek": 122,
     "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
@@ -910,8 +910,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
-    "timeDay": 13,
-    "timeWeek": 11,
+    "timeDay": 0,
+    "timeWeek": 12,
     "timeMonth": 7,
     "timeYear": 6,
     "dailyMinutesDown": {}
@@ -928,8 +928,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6,
-    "timeDay": 19,
-    "timeWeek": 12,
+    "timeDay": 0,
+    "timeWeek": 13,
     "timeMonth": 8,
     "timeYear": 6,
     "dailyMinutesDown": {}
