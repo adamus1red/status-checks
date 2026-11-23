@@ -4,15 +4,15 @@
     "url": "https://octal.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/octal.xyz.ico",
     "slug": "octal",
-    "status": "up",
+    "status": "down",
     "uptime": "79.93%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "3.95%",
-    "uptimeMonth": "0.34%",
-    "uptimeYear": "0.19%",
+    "uptimeDay": "17.89%",
+    "uptimeWeek": "6.50%",
+    "uptimeMonth": "0.92%",
+    "uptimeYear": "0.24%",
     "time": 90,
-    "timeDay": 76,
-    "timeWeek": 92,
+    "timeDay": 71,
+    "timeWeek": 89,
     "timeMonth": 86,
     "timeYear": 81,
     "dailyMinutesDown": {
@@ -359,7 +359,6 @@
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
-      "2025-11-23": 1440,
       "2026-11-05": 1043,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
@@ -380,7 +379,8 @@
       "2026-11-22": 1301,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
-      "2026-11-19": 1440
+      "2026-11-19": 1440,
+      "2026-11-23": 0
     }
   },
   {
@@ -397,7 +397,7 @@
     "time": 496,
     "timeDay": 409,
     "timeWeek": 523,
-    "timeMonth": 509,
+    "timeMonth": 507,
     "timeYear": 488,
     "dailyMinutesDown": {
       "2025-12-19": 52,
@@ -444,8 +444,8 @@
     "time": 1013,
     "timeDay": 916,
     "timeWeek": 822,
-    "timeMonth": 2363,
-    "timeYear": 1113,
+    "timeMonth": 2399,
+    "timeYear": 1112,
     "dailyMinutesDown": {
       "2025-12-03": 20,
       "2025-12-25": 1239,
@@ -471,7 +471,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-22": 1302,
+      "2026-11-23": 120,
+      "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -834,8 +835,7 @@
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
-      "2025-11-24": 1440,
-      "2025-11-23": 1440
+      "2025-11-24": 1440
     }
   },
   {
@@ -890,7 +890,7 @@
     "time": 123,
     "timeDay": 91,
     "timeWeek": 121,
-    "timeMonth": 121,
+    "timeMonth": 120,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2025-12-25": 1239
