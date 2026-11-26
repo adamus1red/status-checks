@@ -4,16 +4,16 @@
     "url": "https://octal.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/octal.xyz.ico",
     "slug": "octal",
-    "status": "down",
-    "uptime": "79.82%",
-    "uptimeDay": "28.03%",
+    "status": "up",
+    "uptime": "79.81%",
+    "uptimeDay": "28.06%",
     "uptimeWeek": "6.56%",
     "uptimeMonth": "1.85%",
     "uptimeYear": "0.31%",
     "time": 89,
-    "timeDay": 47,
-    "timeWeek": 59,
-    "timeMonth": 78,
+    "timeDay": 44,
+    "timeWeek": 57,
+    "timeMonth": 77,
     "timeYear": 81,
     "dailyMinutesDown": {
       "2026-11-01": 1373,
@@ -380,7 +380,7 @@
       "2026-11-25": 1201,
       "2026-11-24": 1440,
       "2026-11-23": 1321,
-      "2026-11-26": 224
+      "2026-11-26": 527
     }
   },
   {
@@ -460,7 +460,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.spacespacespacetime.dev.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "53.47%",
+    "uptime": "53.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -471,7 +471,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-26": 390,
+      "2026-11-26": 692,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
